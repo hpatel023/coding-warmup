@@ -1,0 +1,10 @@
+adjective = input("Enter an adjective: ")
+adjective2 = input("Enter an adjective: ")
+bird = input("Enter a type of bird: ")
+roomofthehouse = input("Enter a room in a house: ")
+verb = input("Enter verb in past tense:")
+Relative = input ("Enter relative's name:")
+name = input("Enter name:")
+liquid = input("Enter liquid:")
+
+print("It was a " + adjective + " , cold November day. I woke up to the " + adjective2 + " smell of " + bird + " roasting in the " + roomofthehouse + " downstairs." + " I was" + verb + " downstairs but " + Relative + " stopped me. I told them that my pet bird named " + name + "  was being cooking in " + liquid)
